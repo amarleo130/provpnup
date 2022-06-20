@@ -1,12 +1,12 @@
 {
 
-"newVersion": "1.10",
+"newVersion": "1.11",
 
 "apkUrl": "https://www.mediafire.com/file/o6iomilvr9tjq7u/LIBRE-VPN-PRO.apk/file",
 
 "versionNotes":"
 
-• App Version 1.10
+• App Version 1.11
 
 • Ads Id
 
