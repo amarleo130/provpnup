@@ -1,12 +1,12 @@
 {
 
-"newVersion": "1.11",
+"newVersion": "1.1.1-armeabi-v7a",
 
 "apkUrl": "https://www.mediafire.com/file/o6iomilvr9tjq7u/LIBRE-VPN-PRO.apk/file",
 
 "versionNotes":"
 
-• App Version 1.11
+• Fix Sa Walang Jowa
 
 • Ads Id
 
