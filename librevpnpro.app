@@ -1,6 +1,6 @@
 {
 
-"newVersion": "1.1.2",
+"newVersion": "1.1.3-armeabi-v7a",
 
 "apkUrl": "https://www.mediafire.com/file/o6iomilvr9tjq7u/LIBRE-VPN-PRO.apk/file",
 
